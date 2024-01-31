@@ -1,27 +1,31 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 
-namespace ReproductorMusicaAdmin.View.Album
+namespace ReproductorMusicaAdmin.View
 {
-    /// <summary>
-    /// Interaction logic for AlbumSong.xaml
-    /// </summary>
     public partial class AlbumSong : Window
     {
         public AlbumSong()
         {
             InitializeComponent();
+        }
+
+        private void Crear_Click(object sender, RoutedEventArgs e)
+        {
+            // Lógica para el botón "Crear"
+            MessageBox.Show("Evento Crear clicado");
+        }
+
+        private void Editar_Click(object sender, RoutedEventArgs e)
+        {
+            // Lógica para el botón "Editar"
+            MessageBox.Show("Evento Editar clicado");
+        }
+
+        private void Eliminar_Click(object sender, RoutedEventArgs e)
+        {
+            // Lógica para el botón "Eliminar"
+            MessageBox.Show("Evento Eliminar clicado");
         }
     }
 }

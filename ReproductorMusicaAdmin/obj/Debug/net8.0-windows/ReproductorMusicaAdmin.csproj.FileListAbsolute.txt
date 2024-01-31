@@ -42,3 +42,4 @@ C:\Users\Moha\source\repos\ReproductorMusicaAdmin\ReproductorMusicaAdmin\obj\Deb
 C:\Users\Moha\source\repos\ReproductorMusicaAdmin\ReproductorMusicaAdmin\obj\Debug\net8.0-windows\View\DownSong\DownSong.baml
 C:\Users\Moha\source\repos\ReproductorMusicaAdmin\ReproductorMusicaAdmin\obj\Debug\net8.0-windows\View\Album\AlbumSong.g.cs
 C:\Users\Moha\source\repos\ReproductorMusicaAdmin\ReproductorMusicaAdmin\obj\Debug\net8.0-windows\View\Album\AlbumSong.baml
+C:\Users\Moha\source\repos\ReproductorMusicaAdmin\ReproductorMusicaAdmin\obj\Debug\net8.0-windows\ReproductorMusicaAdmin.sourcelink.json

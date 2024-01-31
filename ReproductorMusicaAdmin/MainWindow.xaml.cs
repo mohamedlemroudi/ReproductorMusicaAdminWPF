@@ -1,5 +1,5 @@
 ﻿using ReproductorMusicaAdmin.API.Entitas;
-using ReproductorMusicaAdmin.View.Album;
+using ReproductorMusicaAdmin.View;
 using ReproductorMusicaAdmin.View.DownSong;
 using ReproductorMusicaAdmin.View.UpSong;
 using System.Text;
