@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6nlHQd5IWwUI983jjE0g53jq3k56McJu/lq/od77k4YHXQsOHkotx7FW3vHejAvogNc2ajwD33/Cm9X4bQrUVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moha\\source\\repos\\ReproductorMusicaAdmin\\ReproductorMusicaAdmin\\ReproductorMusicaAdmin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,22 @@
+﻿<Window x:Class="ReproductorMusicaAdmin.View.UpSong.UpSong"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReproductorMusicaAdmin.View.UpSong"
+        mc:Ignorable="d"
+        Title="UpSong" Height="450" Width="800" Background="#2C3E50">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="UP SONG" FontSize="30" FontWeight="Bold" Foreground="White" Margin="0,0,0,30"/>
+
+            <Label Content="Nombre de la canción:" FontWeight="Bold" Foreground="White"/>
+            <TextBox x:Name="NombreCancionTextBox" Margin="0,0,0,20" Height="30" Width="300" />
+
+            <Label Content="Archivo de música:" FontWeight="Bold" Foreground="White"/>
+            <Button Content="Seleccionar Archivo" Click="SeleccionarArchivo_Click" Margin="0,0,0,20" Height="30" Width="150" Background="#485F7A" Foreground="White" FontWeight="Bold"/>
+
+            <Button Content="Subir Música" Click="SubirMusica_Click" Width="150" Height="40" Background="#485F7A" Foreground="White" FontWeight="Bold"/>
+        </StackPanel>
+    </Grid>
+</Window>
